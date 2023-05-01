@@ -5,7 +5,7 @@ html {
 
 /* Set the margin to 0 to make sure the page stretches all the way to the edge of the browser window. */
 body {
-  margin: 0;
+  margin: 4;
 }
 header, footer {
     font-family: 'Inconsolata', monospace;
