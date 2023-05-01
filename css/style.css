@@ -9,7 +9,7 @@ body {
 }
 header, footer {
     font-family: 'Inconsolata', monospace;
-    color: #fff;
+    color: #faedcd;
     min-height: 100vh;
     display: flex;
   }
