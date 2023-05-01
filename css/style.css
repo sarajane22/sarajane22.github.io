@@ -8,12 +8,13 @@ body {
   margin: 0;
 }
 header, footer {
-  header {
     font-family: 'Inconsolata', monospace;
     color: #fff;
     min-height: 100vh;
     display: flex;
   }
+
+header {
   background-color: #ffa500;
   text-align: left;
   min-width: 500px;
@@ -80,7 +81,7 @@ img {
 }
 
 .description {
-  font-family: Work Sans;
+  font-family: 'Inconsolata', monospace;
   font-size: 14px;
   font-weight: 300;
   line-height: 1.29;
