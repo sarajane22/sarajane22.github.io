@@ -9,7 +9,7 @@ body {
 }
 header, footer {
     font-family: 'Inconsolata', monospace;
-    color: #faedcd;
+    color: #ffffff;
     min-height: 100vh;
     display: flex;
   }
@@ -35,11 +35,11 @@ main {
 
 h2 {
   font-family: 'Inconsolata', monospace;
-  font-size: 18px;
+  font-size: 20px;
   font-weight: 600;
   letter-spacing: 0.3px;
   text-align: left;
-  color: #ffa500;
+  color: #432818;
   padding: 10px 0px 10px 10px;
 }
 
