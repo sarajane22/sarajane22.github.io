@@ -11,7 +11,7 @@ header, footer {
     font-family: 'Inconsolata', monospace;
     color: #ffffff;
     min-height: 60vh;
-    display: flex;
+    text-align: left;
   }
 
 header {
