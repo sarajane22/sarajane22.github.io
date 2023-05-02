@@ -66,6 +66,26 @@ a {
   align-content: center;
 }
 
+.myButton {
+  border-radius: 28px;
+  border: 1px solid #ffffff;
+  cursor: pointer;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 16px 31px;
+  text-decoration: none;
+  margin: 1.69em auto;
+}
+
+.myButton:hover {
+	background: rgba(0, 0, 0, 0.2); /* Black color with 50% alpha/opacity */
+}
+
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
 .description {
   font-family: 'Inconsolata', monospace;
   font-size: 16px;
