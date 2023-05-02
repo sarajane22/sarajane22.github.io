@@ -119,6 +119,7 @@ footer {
   align-content: center;
   justify-content: space-between;
   padding: 10px 20px;
+  color: rgba(255, 255, 255, 0.5);
 }
 
 .copyright {
